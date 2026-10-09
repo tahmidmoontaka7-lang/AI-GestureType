@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+gesture-frontend/node_modules/
+gesture-frontend/build/
+.DS_Store
